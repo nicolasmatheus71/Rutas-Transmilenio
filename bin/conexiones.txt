@@ -1,0 +1,61 @@
+Calle 85;Virrey
+Calle 85;Héroes
+Simón Bolivar;Av Chile
+Simón Bolivar;Movistar Arena
+Calle 45;Marly
+Calle 45;Av 39
+Alcalá;Calle 142
+Alcalá;Prado
+Puente Aranda;Carrera 43
+Puente Aranda;Distrito Grafiti
+Av Boyaca;Av Americas
+Av Boyaca;Mandalay
+U Nacional;Campín - UAN
+U Nacional;Av El Dorado
+Marly;Calle 57
+Patio Bonito;Biblioteca Tintal
+Patio Bonito;Portal Américas
+CAD;Av El Dorado
+CAD;Paloquemao
+Héroes;La Castellana
+Héroes;Calle 76
+Zona Industrial;CDS - Carrera 32
+Zona Industrial;Carrera 43
+Calle 57;Calle 63
+Flores;Calle 72
+Flores;Calle 63
+Calle 142;Calle 146
+Calle 187;Terminal
+Calle 187;Portal Norte
+Pepe Sierra;Calle 127
+Pepe Sierra;Calle 106
+Av Chile;NQS Calle 75
+Maraella;Pradera
+Maraella;Av Americas
+Calle 106;Calle 100
+Calle 146;Mazurén
+Calle 100;Virrey
+Portal Norte;Toberín
+Toberín;Calle 161
+Movistar Arena;Campín - UAN
+Av Jiménez;Calle 19
+Av Jiménez;Tercer Milenio
+Av Jiménez;San Facon
+CDS - Carrera 32;Ricaurte
+Calle 26;Calle 34
+Calle 26;Calle 22
+Calle 22;Calle 19
+Ricaurte;San Facon
+Ricaurte;Paloquemao
+Prado;Calle 127
+NQS Calle 75;La Castellana
+NQS Calle 75;Calle 76
+Mandalay;Banderas
+Av 39;Calle 34
+De la Sabana;San Facon
+Banderas;Tv 86
+Calle 72;Calle 76
+Tv 86;Biblioteca Tintal
+Distrito Grafiti;Pradera
+La Castellana;Virrey
+Calle 161;Mazurén
